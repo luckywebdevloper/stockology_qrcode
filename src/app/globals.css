@@ -133,7 +133,7 @@ max-width: 500px;
 .link{
   display: flex;
   max-width: 500px;
-  margin: auto;
+  margin: 20px  auto;
   justify-content: space-between;
 }
 .link a{
@@ -177,7 +177,9 @@ h1{
     /* cursor: pointer; */
     transition: 0.3s;
 }
-
+.container3d{
+  height: 100vh;
+}
 .share-btn:hover {
     transform: scale(1.1);
 }
