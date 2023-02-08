@@ -24,7 +24,7 @@ const index = () => {
               <Image className="avatar" src={logo} alt="Joshuasm32" />
             </div>
             <div className="username">Manish Kumar</div>
-            <p>Directer</p>
+            <p>Director</p>
             <div className="link">
               <Link href={"tel:+91 6378564166"}>
                 <Image className="button " src={call} alt="call" />
