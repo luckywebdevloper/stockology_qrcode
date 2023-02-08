@@ -22,7 +22,7 @@ const index = () => {
             </div>
             <div className="username">Aditya Sahu</div>
             <div className="link">
-              <Link href={"tel:+91 74770382548"}>
+              <Link href={"tel:+91 7470382548"}>
                 <Image className="button " src={call} alt="call" />
                 <p>Call</p>
               </Link>
@@ -35,10 +35,10 @@ const index = () => {
 
           <div className="social">
             <div className="link-box">
-              <Link href={"tel:+91 74770382548"}>
+              <Link href={"tel:+91 7470382548"}>
                 <div className="box">
                   <Image className="button twitter" src={phone} alt="mail" />
-                  <h4>+91 74770382548</h4>
+                  <h4>+91 7470382548</h4>
                 </div>
                 <p>Mobile</p>
               </Link>
